@@ -3,3 +3,4 @@ build/*.js
 build/*.css
 stats.json
 npm-debug.log
+.idea
